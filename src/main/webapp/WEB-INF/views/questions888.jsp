@@ -8,7 +8,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 	<title><spring:message code="label.title" /></title>
 	
-	 <!-- jQuery -->
+	 <!-- jQuery -------------->
         <spring:url value="resources/jquery-1.7.js" var="jquery_url" />     
         <script src="${jquery_url}" type="text/javascript"><jsp:text/></script>
              
@@ -26,6 +26,8 @@
 
 </head>
 <body>
+
+<h1>Test Git OK!!!</h1>
   
 <h2><spring:message code="label.title" /></h2>
            
