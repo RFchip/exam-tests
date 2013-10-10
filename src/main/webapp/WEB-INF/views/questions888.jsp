@@ -36,7 +36,7 @@
 <<<<<<< HEAD
 <h1>Test dif!</h1>
 =======
-<h1>Test differents!</h1>
+<h1>Test differHello from Lenovo!</h1>
 >>>>>>> 19867badee9240248c0351d88c08f9dec1a01dc5
 >>>>>>> 412ecd877bbb9f01ebdc2528e67699af49b11984
   
