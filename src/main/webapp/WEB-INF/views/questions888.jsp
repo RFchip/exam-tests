@@ -27,7 +27,7 @@
 </head>
 <body>
 
-<h1>Test diff!</h1>
+<h1>Test dif!</h1>
   
 <h2><spring:message code="label.title" /></h2>
            
