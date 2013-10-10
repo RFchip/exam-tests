@@ -33,7 +33,7 @@
 <<<<<<< HEAD
 =======
 
-<h1>Test diff!</h1>
+<h1>Test differents!</h1>
 >>>>>>> 19867badee9240248c0351d88c08f9dec1a01dc5
   
 <h2><spring:message code="label.title" /></h2>
