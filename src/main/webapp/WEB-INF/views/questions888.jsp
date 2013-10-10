@@ -8,7 +8,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 	<title><spring:message code="label.title" /></title>
 	
+<<<<<<< HEAD
+	 <!-- jQuery -->
+=======
 	 <!-- jQuery -------------->
+>>>>>>> 19867badee9240248c0351d88c08f9dec1a01dc5
         <spring:url value="resources/jquery-1.7.js" var="jquery_url" />     
         <script src="${jquery_url}" type="text/javascript"><jsp:text/></script>
              
@@ -26,8 +30,15 @@
 
 </head>
 <body>
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 <h1>Test dif!</h1>
+=======
+<h1>Test differents!</h1>
+>>>>>>> 19867badee9240248c0351d88c08f9dec1a01dc5
+>>>>>>> 412ecd877bbb9f01ebdc2528e67699af49b11984
   
 <h2><spring:message code="label.title" /></h2>
            
